@@ -1,0 +1,57 @@
+td.tReportHeader{	background-color:#ffffff;
+			
+			font-family : Helvetica;
+			font-weight : bold ;
+}
+td.tReportInfo{	background-color:#eeeeee;
+			
+			color : #CC6600;
+			font-family : Helvetica;
+			font-weight : bold ;
+}
+td.tColHeader{	background-color:#ffffff;
+			
+			color : #330066;
+			font-family : Helvetica;
+				
+			font-weight : bold ;
+}
+td.tGray{	background-color:#eeeeee;
+			
+			font-family : Helvetica;
+				
+}
+td.tWhite{					
+			font-family : Helvetica;
+				
+}
+
+
+td.tHeaderP{
+			
+			color : #330066;
+			font-family : Helvetica;
+				
+			font-weight : bold ;
+}
+
+td.tHeaderB{
+			
+			color : #cc6600;
+			font-family : Helvetica;
+				
+			font-weight : bold ;
+}
+
+td.tHeaderP2{
+			
+			color : #330066;
+			font-family : Helvetica;
+			font-name   : Arial;
+}
+td.tHeaderB2{		background-color:#eeeeee;
+			
+			font-family : Helvetica;
+				
+			font-Style  : Italic ;
+}
